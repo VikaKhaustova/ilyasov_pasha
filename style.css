@@ -173,6 +173,7 @@ main{
 }
 
 footer{
+    margin-top: 100px;
     display: flex;
     background: #C4C4C4;
     justify-content: space-around;
