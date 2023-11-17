@@ -117,7 +117,9 @@ main{
     justify-content: space-between;
     flex-wrap: wrap;
 }
-
+.master img{
+    width: 350px;
+}
 .about h2{
     color: #174919;
     font-family: Roboto;
